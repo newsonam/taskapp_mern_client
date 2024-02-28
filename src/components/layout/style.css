@@ -1,0 +1,9 @@
+.tasktitle{
+    /* color:#BF40BF  ; */
+    color:white;
+}
+@media only screen and (max-width: 600px) {
+    .tasktitle{
+        font-size:4vw;
+    }
+  }
